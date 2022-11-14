@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+body .header img{
+    height:110px;
+    width:110px
+}
+
+body .header .nav{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+body .header .nav .nav-item{
+    display: inline;
+    line-height: 80px;
+    margin:10px
+}
